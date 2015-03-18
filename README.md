@@ -1,6 +1,5 @@
 #Poste.it Notifier
 
-- - -
 
 Simple tool that send you an **email** when the status of your package, that should be delivered by poste.it, change.
 
