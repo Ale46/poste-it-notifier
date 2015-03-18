@@ -1,7 +1,7 @@
 #Poste.it Notifier
 
 
-Simple tool that send you an **email** when the status of your package, that should be delivered by poste.it, change.
+Simple tool that send you an **email** when the status of your package, that should be delivered by [Poste Italiane] (http://poste.it), change.
 
 ##Install
 
