@@ -33,7 +33,7 @@ heroku ps:scale worker=1
 
 ###Run locally
 
-First signup at [postmark](http://postmark.it), than clone the repository
+First signup at [postmark](http://postmark.it), then clone the repository
 ```
 git clone https://github.com/Ale46/poste-it-notifier.git
 ```
